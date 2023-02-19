@@ -1,0 +1,28 @@
+nav ul{
+   
+    text-align: center;
+}
+nav li a{
+    text-decoration: none;
+    
+}
+nav li{
+    font-weight: 700;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0px;
+  overflow: hidden;
+  background-color:white;
+}
+nav li {
+    display: inline-block;
+   
+    padding: 50px 50px;
+   
+}
+li a{
+    color: black;
+    
+}
+
